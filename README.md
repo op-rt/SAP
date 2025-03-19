@@ -6,7 +6,7 @@
 
 An optimized Python implementation of [Sweep and Prune](https://www.cs.princeton.edu/courses/archive/spr01/cs598b/papers/cohen95.pdf) (SAP) algorithm for fast broad-phase collision detection in 2D and 3D simulations.
 
-## Description
+### Description
 The core algorithm efficiently detects potential collisions between objects by projecting their bounding boxes onto coordinate axes, sorting them, and identifying overlapping intervals—essentially "sweeping" through sorted object boundaries to "prune" impossible collisions.
 
 This version presents several optimizations:
