@@ -8,7 +8,7 @@ and py5 for the sketch (drawing) environment.
 Takes much inspirations from the py5 documentation on Hybrid Programming by James Schmitz 
 (https://py5coding.org/content/hybrid_programming.html)
 
-# Author: sol/ub 
+# Author: Louis D. 
 # Created: 2023-06-03
 # Python Version: 3.11
 # Context: Testing py5 rendering performance using Direct Buffers.
